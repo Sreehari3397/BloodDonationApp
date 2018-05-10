@@ -1,0 +1,140 @@
+<resources>
+    <string name="app_name">BloodDonor</string>
+    <string-array name="description">
+        <item>B+(positive}</item>
+        <item>AB+(postive}</item>
+        <item>A+(POSITIVE)</item>
+        <item>0+(POSITIVE)</item>
+        <item>B-(negtive}</item>
+        <item>AB-(negative}</item>
+        <item>A-(negative)</item>
+        <item>0-(negative)</item>
+
+    </string-array>
+    <string-array name="description1">
+        <item>PERSON 1</item>
+        <item>PERSON 2</item>
+        <item>PERSON 3</item>
+        <item>PERSON 4</item>
+
+    </string-array>
+
+    <string-array name="description2">
+        <item>PERSON 1</item>
+        <item>PERSON 2</item>
+        <item>PERSON 3</item>
+        <item>PERSON 4</item>
+
+    </string-array>
+
+    <string-array name="description3">
+        <item>PERSON 1</item>
+        <item>PERSON 2</item>
+        <item>PERSON 3</item>
+        <item>PERSON 4</item>
+
+    </string-array>
+
+    <string-array name="description4">
+        <item>PERSON 1</item>
+        <item>PERSON 2</item>
+        <item>PERSON 3</item>
+        <item>PERSON 4</item>
+
+    </string-array>
+
+    <string-array name="description5">
+        <item>PERSON 1</item>
+        <item>PERSON 2</item>
+        <item>PERSON 3</item>
+        <item>PERSON 4</item>
+
+    </string-array>
+
+    <string-array name="description6">
+        <item>PERSON 1</item>
+        <item>PERSON 2</item>
+        <item>PERSON 3</item>
+        <item>PERSON 4</item>
+    </string-array>
+
+    <string-array name="description7">
+        <item>PERSON 1</item>
+        <item>PERSON 2</item>
+        <item>PERSON 3</item>
+        <item>PERSON 4</item>
+
+    </string-array>
+
+    <string-array name="description8">
+        <item>PERSON 1</item>
+        <item>PERSON 2</item>
+        <item>PERSON 3</item>
+        <item>PERSON 4</item>
+
+    </string-array>
+    <string-array name="titles1">
+        <item>Hotels</item>
+        <item>Theatres</item>
+        <item>place</item>
+        <item>Restaurants</item>
+    </string-array>
+    <string-array name="titles2">
+        <item>Hotels</item>
+        <item>Theatres</item>
+        <item>place</item>
+        <item>Restaurants</item>
+
+    </string-array>
+    <string-array name="titles3">
+        <item>Hotels</item>
+        <item>Theatres</item>
+        <item>Transport</item>
+        <item>Transport</item>
+    </string-array>
+    <string-array name="titles4">
+        <item>Hotels</item>
+        <item>Theatres</item>
+        <item>place</item>
+        <item>Restaurants</item>
+
+    </string-array>
+    <string-array name="titles5">
+        <item>Hotels</item>
+        <item>Theatres</item>
+        <item>Transport</item>
+        <item>Transport</item>
+    </string-array>
+    <string-array name="titles6">
+        <item>Hotels</item>
+        <item>Transport</item>
+        <item>Transport</item>
+        <item>Transport</item>
+    </string-array>
+    <string-array name="titles7">
+        <item>Hotels</item>
+        <item>Theatres</item>
+        <item>place</item>
+        <item>Transport</item>
+    </string-array>
+    <string-array name="titles8">
+        <item>Hotels</item>
+        <item>Theatres</item>
+        <item>Transport</item>
+        <item>Transport</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Hotels</item>
+        <item>Theatres</item>
+        <item>place</item>
+        <item>Restaurants</item>
+        <item>Transport</item>
+        <item>Transport</item>
+        <item>Transport</item>
+        <item>Transport</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_maps1">Map</string>
+
+</resources>
